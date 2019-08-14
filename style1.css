@@ -1,0 +1,42 @@
+.wrap{
+    background: blue;
+    
+}
+
+.header{
+    background:  skyblue;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.Navigasi{
+    background: skyblue;
+    padding: 3px;
+    margin-bottom: 10px;
+
+
+}
+
+.sidebar{
+    background: skyblue;
+    padding: 10px;
+    float: left ;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 26%                        ;
+
+}
+
+.content{
+    float: right;
+    background:skyblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+    width:70%;
+}
+
+.footer{
+    background: skyblue;
+    padding: 10px;
+}
